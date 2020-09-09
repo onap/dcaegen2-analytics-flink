@@ -1,0 +1,7 @@
+Verified+1: ONAP Jobbuilder <onap-jobbuilder@jenkins.onap.org>
+Code-Review+2: Tony Hansen <tony@att.com>
+Submitted-by: Tony Hansen <tony@att.com>
+Submitted-at: Wed, 09 Sep 2020 02:18:39 +0000
+Reviewed-on: https://gerrit.onap.org/r/c/dcaegen2/analytics/flink/+/112293
+Project: dcaegen2/analytics/flink
+Branch: refs/heads/master
